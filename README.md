@@ -1,2 +1,20 @@
-# Sea-Level-Predictor
-This repository contains a Python function designed to analyze a dataset of the global average sea level change since 1880. The function will use this data to predict sea level changes through the year 2050.
+# Sea Level Predictor
+
+This project is part of my FreeCodeCamp Data Analysis with Python Certification. The Sea Level Predictor predicts future sea levels based on historical data using linear regression with Python's pandas and matplotlib libraries.
+
+## Features
+- Linear regression analysis
+- Prediction of future sea levels
+- pandas and matplotlib library usage
+
+## Technologies Used
+- Python
+- pandas
+- matplotlib
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+Happy coding!
